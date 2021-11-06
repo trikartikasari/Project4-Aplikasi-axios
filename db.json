@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "judulBuku": "Hafshah",
+      "pengarang": "Rahasia Sunah",
+      "tahunTerbit": "2-11-2021",
+      "kategori": "2-12-2021",
+      "id": 0
+    },
+    {
+      "judulBuku": "Chaidar",
+      "pengarang": "Indahnya Adab",
+      "tahunTerbit": "5-10-2021",
+      "kategori": "5-2-2022",
+      "id": 1
+    }
+  ]
+}
